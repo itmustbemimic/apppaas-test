@@ -28,7 +28,7 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <div class="box">
-          <h1>Node.js Test</h1>
+          <h1>express Test</h1>
           <p>Hi there!</p>
         </div>
       </body>
